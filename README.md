@@ -5,3 +5,5 @@ This little code will scrape 2 different proxy websites for the list of proxies,
 Total proxies = 700
 
 Whenever you run this script, it'll always get the updated proxies.
+
+Feel free to add your own proxy websites with their respective codes.
